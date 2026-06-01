@@ -13,12 +13,12 @@ Ta aplikacja jest to część backendowa projektu związanego z przeglądaniem m
 - [] Jako zalogowany administrator mogę edytować oraz usuwać te dane
 
 ## 3. Model Bazy danych
-* ***User:** id | password_hash | user_name | role
-* ***Place:** id | place_name | place_area | coords | description | category | year | url_link | url_img
-* ***Place_Area:** id | place_area_name | coords
-* ***Place_Category:** id | category_name
-* ***Historic_Map:** id | name | coords
-* ***Layer_Map:**  id | layer_map_name | url_img
+***User:** id | password_hash | user_name | role
+***Place:** id | place_name | place_area | coords | description | category | year | url_link | url_img
+***Place_Area:** id | place_area_name | coords
+***Place_Category:** id | category_name
+***Historic_Map:** id | name | coords
+***Layer_Map:**  id | layer_map_name | url_img
 
 ## 4. Planowanie API (REST)
 aplikacja backend będzie przesyłać dane w formacie JSON gdy klient (aplikacja webowa frontedn) będzie wykonywać zapytanie do serwera. 
