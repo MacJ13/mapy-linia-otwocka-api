@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Repozytorium zawierające logikę biznesową, API oraz obsługę bazy danych dla projektu strony Mapy: Linia Otwocka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacJ13/mapy-linia-otwocka-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MacJ13/mapy-linia-otwocka-api/issues"
+  },
+  "homepage": "https://github.com/MacJ13/mapy-linia-otwocka-api#readme"
+}
